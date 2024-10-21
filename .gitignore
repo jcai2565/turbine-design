@@ -1,2 +1,4 @@
 Blades/*.xlsx
+Plots/*
 !Blades/.gitkeep
+!Plots/.gitkeep
