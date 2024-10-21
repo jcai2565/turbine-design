@@ -7,7 +7,7 @@ density = 1.204; % kg/m^3, 20degC
 dyn_visc = 1.825E-5; % kg/m-s, 20degC
 
 % VARIED PARAMETERS
-u1 = 3 : 0.1 : 5; % m/s, 
+u1 = 3 : 0.2 : 7; % m/s, 
 alpha = 4 : 0.5 : 10; % degree
 lambda = 5;
 
